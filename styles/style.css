@@ -12,3 +12,14 @@ ul li a {
     color: crimson;
     font-size: 22px;
 }
+
+.ingred-title {
+    font-size: 25px;
+    font-weight: bold;
+    background-color: cornsilk;
+}
+
+ul li.ingred-elements {
+    font-size: 18px;
+    font-weight: normal;
+}
