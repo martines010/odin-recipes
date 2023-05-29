@@ -13,13 +13,17 @@ ul li a {
     font-size: 22px;
 }
 
-.ingred-title {
+.ingred-title, ol {
     font-size: 25px;
     font-weight: bold;
     background-color: cornsilk;
 }
 
-ul li.ingred-elements {
+ul li.ingred-elements, ol li.steps-element {
     font-size: 18px;
     font-weight: normal;
+}
+
+ol {
+    background-color: ghostwhite;
 }
